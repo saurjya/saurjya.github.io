@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Artificial Intelligence and Music, RAEng - Exceptional Promise Global Talent UK
+subtitle: <a href='https://www.aim.qmul.ac.uk/'>Ph.D. Artificial Intelligence and Music</a>
 
 profile:
   align: right
