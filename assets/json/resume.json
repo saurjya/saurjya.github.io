@@ -1,114 +1,100 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Saurjya Sarkar",
+    "label": "Audio and ML Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "saurjya.sarkar@qmul.ac.uk",
+    "phone": "",
+    "url": "https://saurjya.github.io/",
+    "summary": "Research Scientist specializing in AI applications for Music and Audio Processing with prior experience in commercial audio product development with international and US patents. Proven track record of driving innovative interdisciplinary research, and high-resource deep learning deployment.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Queen Mary University of London",
+      "postalCode": "E1 4NS",
+      "city": "London",
+      "countryCode": "United Kingdom",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
+        "url": "https://x.com/saurjyasarkar"
+      },
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=svkPougAAAAJ&hl=en"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/saurjya-sarkar/"
+      },
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Queen Mary University of London",
+      "location": "London, United Kingdom",
+      "position": "Postdoctoral Research Assistant",
+      "startDate": "2024-04",
+      "endDate": "2025-03",
+      "Project": "StudioSync - AI productivity tools for record labels",
+      "Topics": ["Source Separation", "Lyrics Transcription", "Sample Detection", "Instrument Recognition"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "Queen Mary University of London",
+      "location": "London, United Kingdom",
+      "position": "Postdoctoral Research Assistant",
+      "startDate": "2023-12",
+      "endDate": "2024-03",
+      "Project": "AudioStrip - Music Source Separation beyond 4-stems",
+      "Topics": ["Lead Vocals/Backing Vocals Separation", "6-stem Music Source Separation"]
+    },
+    {
+      "name": "Qualcomm India Private Limited",
+      "location": "Hyderabad, India",
+      "position": "Engineer, Audio Subsystems",
+      "startDate": "2017-07",
+      "endDate": "2019-09",
+      "Project": "Implemented machine learning based event detection algorithm to identify audio system failures for pre-commercialisation stress testing for all Snapdragon audio products."
+      "Products": ["Snapdragon 855", "Snapdragon 865", "Snapdragon 765", "Snapdragon Wearables"]
+    },
+    {
+      "name": "Queen Mary University of London",
+      "location": "London, United Kingdom",
+      "position": "Research Assistant",
+      "startDate": "2016-07",
+      "endDate": "2016-12",
+      "Project": "Cross-adaptive Audio Effects for Live Music"
+      "Products": ["Onset Detection", "VST Development", "User performance studies"]
+    },
+    {
+      "name": "National Central University",
+      "location": "Zhongli, Taiwan",
+      "position": "Research Assistant",
+      "startDate": "2015-05",
+      "endDate": "2015-07",
+      "Project": "Data analysis to establish period-luminosity relationship for extragalactic Cepheids"
+      "Products": ["AstroPy", "Observational Astrophysics", "Numerical Methods", "Data Analysis"]
+    },
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Queen Mary University of London",
+      "location": "London, United Kingdom",
+      "url": "https://theses.eurasip.org/theses/976/time-domain-music-source-separation-for-choirs/",
+      "area": "Artificial Intelligence and Music",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-10",
+      "endDate": "2024-02",
+      "courses": ["Time-domain Music Source Separation for Choirs and Ensembles"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Best Student Paper Award - WASPAA 2023",
+      "date": "2023-10-31",
+      "awarder": "IEEE",
+      "url": "https://waspaa.com/paper-awards/",
+      "summary": "Best student paper award for 'Leveraging Synthetic Data for Improving Chamber Ensemble Separation'"
     }
   ],
   "publications": [
