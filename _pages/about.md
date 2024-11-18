@@ -13,8 +13,8 @@ profile:
     <p>123 Mile End Road</p>
     <p>Your London, United Kingdom E1 4NS</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
