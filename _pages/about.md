@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Artificial Intelligence and Music, RAEng - Exceptional Promise Global Talent UK
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>555 Eng 104, Queen Mary University of London</p>
+    <p>123 Mile End Road</p>
+    <p>Your London, United Kingdom E1 4NS</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Research Scientist specializing in AI applications for Music and Audio Processing with prior experience
+in commercial audio product development with international and US patents. Proven track record of
+driving innovative interdisciplinary research, and high-resource deep learning deployment.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recently finished my PhD at the Centre for Digital Music, Queen Mary University of London on Time-domain Music Source Separation for Choirs and Chamber Ensembles. My research received the Best Student Paper Award at IEEE WASPAA 2023. I am currently working as a Postdoctoral Researcher on an Innovate UK project in collaboration with a couple of Music Tech startups.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have previously developed VST audio plugins for cross-adaptive audio effects for live music using Csound at the Centre for Digital Music, Queen Mary University of London. I've also worked for Qualcomm on Audio Quality Testing Automation by developing audio analysis algorithms to quantify system level audio performance using perceptual metrics.
