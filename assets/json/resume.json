@@ -54,7 +54,7 @@
       "position": "Engineer, Audio Subsystems",
       "startDate": "2017-07",
       "endDate": "2019-09",
-      "Project": "Implemented machine learning based event detection algorithm to identify audio system failures for pre-commercialisation stress testing for all Snapdragon audio products."
+      "Project": "Implemented machine learning based event detection algorithm to identify audio system failures for pre-commercialisation stress testing for all Snapdragon audio products.",
       "Products": ["Snapdragon 855", "Snapdragon 865", "Snapdragon 765", "Snapdragon Wearables"]
     },
     {
@@ -63,7 +63,7 @@
       "position": "Research Assistant",
       "startDate": "2016-07",
       "endDate": "2016-12",
-      "Project": "Cross-adaptive Audio Effects for Live Music"
+      "Project": "Cross-adaptive Audio Effects for Live Music",
       "Products": ["Onset Detection", "VST Development", "User performance studies"]
     },
     {
@@ -72,7 +72,7 @@
       "position": "Research Assistant",
       "startDate": "2015-05",
       "endDate": "2015-07",
-      "Project": "Data analysis to establish period-luminosity relationship for extragalactic Cepheids"
+      "Project": "Data analysis to establish period-luminosity relationship for extragalactic Cepheids",
       "Products": ["AstroPy", "Observational Astrophysics", "Numerical Methods", "Data Analysis"]
     },
   ],
