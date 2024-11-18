@@ -7,10 +7,8 @@ subtitle: <a href='https://www.aim.qmul.ac.uk/'>Ph.D. Artificial Intelligence an
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True # crops the image to make it circular
-  more_info: >
-    <p> Queen Mary University of London</p>
-    <p> London, United Kingdom E1 4NS</p>
+  image_circular: False # crops the image to make it circular
+  more_info: 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
