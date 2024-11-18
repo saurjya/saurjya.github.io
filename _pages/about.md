@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 Eng 104, Queen Mary University of London</p>
-    <p>123 Mile End Road</p>
-    <p>Your London, United Kingdom E1 4NS</p>
+    <p> Queen Mary University of London</p>
+    <p> London, United Kingdom E1 4NS</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
