@@ -89,6 +89,7 @@
         - Sample Detection
         - Lyrics Transcription
     - title: Audio Engineering
+      items:
         - Spatial Audio upmixing
         - Automatic Music Production
 
