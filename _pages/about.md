@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Hello! 👋
 permalink: /
 subtitle: <a href='https://www.aim.qmul.ac.uk/'>Ph.D. Artificial Intelligence and Music</a>
 
