@@ -19,7 +19,7 @@ This page presents audio examples for my various projects: **Choral Separation**
         <div><strong>Separated Source 1:</strong></div>
         {% include audio.liquid path="assets/audio/SINGER1_SEP.mp3" controls=true %}
         <div><strong>Separated Source 2:</strong></div>
-        {% include audio.liquid path="assets/audio/SINGER1_SEP.mp3" controls=true %}
+        {% include audio.liquid path="assets/audio/SINGER2_SEP.mp3" controls=true %}
     </div>
     <div class="col-sm mt-3">
         <div><strong>Reference Source 1:</strong></div>
