@@ -11,6 +11,7 @@ This page presents audio examples for my various projects: **Choral Separation**
 
 <div class="row mt-3">
     <h2>Choral Separation</h2>
+    <br>
     <div class="row mt-3">
         <div class="col-sm">
             <div><strong>Mixture:</strong></div>
@@ -44,6 +45,7 @@ This page presents audio examples for my various projects: **Choral Separation**
 
 <div class="row mt-3">
     <h2>Ensemble Separation</h2>
+    <br>
     <div class="row mt-3">
         <div class="col-sm">
             <div><strong>Mixture:</strong></div>
@@ -77,6 +79,7 @@ This page presents audio examples for my various projects: **Choral Separation**
 
 <div class="row mt-3">
     <h2>Solo Singer Separation</h2>
+    <br>
     <div class="row mt-3">
         <div class="col-sm">
             <div><strong>Mixture:</strong></div>
