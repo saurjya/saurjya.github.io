@@ -77,7 +77,7 @@ This page presents audio examples for my various projects: **Choral Separation**
         </div>
         <div class="col-sm-3">
             <div class="col-sm">
-            <div><strong>Separated Backing Vocal:</strong></div>
+            <div><strong>Separated Backing Vocals:</strong></div>
            {% include audio.liquid path="assets/audio/bv_est_21b.wav" controls=true %}
             <div><strong>Reference Backing Vocals:</strong></div>
             {% include audio.liquid path="assets/audio/bv_ref_21b.wav" controls=true %}
