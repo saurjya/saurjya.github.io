@@ -62,7 +62,7 @@ This page presents audio examples for my various projects: **Choral Separation**
 <div class="row mt-3">
     <h2>Lead Singer Separation</h2>
     <div class="caption">
-    These examples are related to my work in collaboration with AudioStrip during my postdoc. 
+    These examples are related to my work in collaboration with AudioStrip during my postdoc. This example highlights how lead vocal separation works, where you can listen that the lead vocalist swaps in the prediction for a single phoneme, as one of the backing vocalists temporarily becomes louder than the lead singer.
     </div>
     <div class="row">
         <div class="col-sm-6">
