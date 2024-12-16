@@ -10,7 +10,7 @@ nav_order: 3
 This page presents audio examples for my various projects: **Choral Separation**, **Ensemble Separation**, and **Lead Singer Separation**. The audio files presented are from models I've trained during my PhD and PostDoc research.
 
 <div class="row mt-3">
-    <h2>Choral Separation</h2>
+    <h2>Choral Music Separation</h2>
     <div class="col-sm mt-3">
         <div><strong>Mixture:</strong></div>
         {% include audio.liquid path="assets/audio/SINGERS_MIX.mp3" controls=true %}
@@ -30,7 +30,7 @@ This page presents audio examples for my various projects: **Choral Separation**
 </div>
 
 <div class="row mt-3">
-    <h2>Ensemble Separation</h2>
+    <h2>Chamber Ensemble Separation</h2>
     <div class="col-sm mt-3">
         <div><strong>Mixture:</strong></div>
         {% include audio.liquid path="assets/audio/VIOLINS_MIX.mp3" controls=true %}
