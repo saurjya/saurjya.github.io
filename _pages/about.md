@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist specializing in AI applications for Music and Audio Processing with experience
+I am a Research Scientist specializing in AI applications for Audio Processing and Music Information Retrieval with experience
 in developing commercial audio products and securing <a href='https://worldwide.espacenet.com/patent/search/family/075690720/publication/WO2021216299A1?q=pn%3DWO2021216299A1'>international</a> and <a href='https://patents.google.com/patent/US11032662B2/en'>US patents</a>. My work has been focused on
 driving innovative interdisciplinary research, and high-resource deep learning deployment, including projects highlighted by the <a href='https://www.flypig.co.uk/presentations/dlj-tl-is-jade-day-20241003.pdf'>Alan Turing Institute</a>.
 
